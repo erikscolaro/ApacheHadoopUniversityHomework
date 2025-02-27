@@ -1,0 +1,17 @@
+# Ignore lib directory
+/lib/
+
+# Ignore bin directory
+/bin/
+
+# Ignore .vscode directory
+.vscode/
+
+# Ignore all JAR files
+*.jar
+
+# Optional: Common files to ignore
+*.class
+.DS_Store
+.project
+.classpath
